@@ -1,0 +1,25 @@
+{
+  "name": "cryptocoin-ecc-named",
+  "version": "0.0.1",
+  "description": "Eliptical Curve Cryptography Named Parameters",
+  "keywords": [
+    "cryptography",
+    "crypto",
+    "bitcoin",
+    "litecoin",
+    "eliptical",
+    "curve"
+  ],
+  "ignore": [
+    "node_modules",
+    ".DS_Store",
+    "component.json",
+    "package.json"
+  ],
+  "dependencies": {
+    "cryptocoin-bigint": "0.0.x",
+    "cryptocoin-ecc": "0.0.x"
+  },
+  "repo": "https://github.com/cryptocoinjs/ecc-named",
+  "main": "./lib/ecc-named.js"
+}
