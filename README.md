@@ -1,7 +1,7 @@
 ecc-named
 =========
 
-JavaScript component to [Eliptical Curve Cryptography]() named parameters from http://www.secg.org/collateral/sec2_final.pdf
+JavaScript component to [Elliptical Curve Cryptography]() named parameters from http://www.secg.org/collateral/sec2_final.pdf
 
 AMD/CommonJS compatible.
 
@@ -14,22 +14,22 @@ Install
 
 ### Node.js/Browserify
 
-    npm install --save cryptocoin-ecc-named
+    npm install --save ecurve-names
 
 ### Component
 
-    component install cryptocoinjs/ecc-named
+    component install ecurve-names
 
 
 ### Bower
 
-    bower install cryptocoin-ecc-named
+    bower install ecurve-names
 
 
 ### Script
 
 ```html
-<script src="/path/to/ecc-named.js"></script>
+<script src="/path/to/ecurve-names.js"></script>
 ```
 
 
@@ -38,7 +38,9 @@ Usage
 
 http://procbits.com/2013/08/27/generating-a-bitcoin-address-with-javascript
 
-### 
+```js
+var getSECCurveByName = require('ecurve-names')
+```
 
 
 Credits

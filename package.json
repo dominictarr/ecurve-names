@@ -1,7 +1,7 @@
 {
-  "name": "cryptocoin-ecc-named",
+  "name": "ecurve-names",
   "version": "0.0.1",
-  "description": "Eliptical Curve Cryptography Named Parameters",
+  "description": "Elliptical Curve Cryptography Named Parameters",
   "keywords": [
     "cryptography",
     "crypto",
@@ -15,7 +15,7 @@
     "terst": "0.0.1"
   },
   "repository": {
-    "url": "https://github.com/cryptocoinjs/ecc-named",
+    "url": "https://github.com/cryptocoinjs/ecurve-names",
     "type": "git"
   },
   "main": "./lib/ecc-named.js",

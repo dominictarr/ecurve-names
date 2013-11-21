@@ -1,4 +1,4 @@
-var getSECCurveByName = require('../lib/ecc-named')
+var getSECCurveByName = require('../lib/ecurve-names')
 
 require('terst')
 
