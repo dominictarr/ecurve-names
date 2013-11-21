@@ -21,5 +21,5 @@
     "ecurve": "0.1.x"
   },
   "repo": "https://github.com/cryptocoinjs/ecurve-names",
-  "main": "./lib/ecc-named.js"
+  "main": "./lib/ecurve-names.js"
 }
