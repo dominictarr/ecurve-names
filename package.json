@@ -20,7 +20,7 @@
   },
   "main": "./lib/ecurve-names.js",
   "dependencies": {
-    "bigi": "~0.2.0",
-    "ecurve": "~0.2.0"
+    "bigi": "0.2.x",
+    "ecurve": "0.2.x"
   }
 }
